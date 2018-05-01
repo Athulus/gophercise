@@ -1,9 +1,10 @@
-package sitemap // import "gophercise/sitemap"
+package sitemap // import "github.com/Athulus/gophercise/sitemap"
 
 import (
-	"gophercise/link"
 	"log"
 	"net/http"
+
+	"github.com/Athulus/gophercise/link"
 )
 
 func mapSite(url string) {

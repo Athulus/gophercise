@@ -1,4 +1,4 @@
-package link // import "gophercise/link"
+package link // import "github.com/Athulus/gophercise/link"
 
 import (
 	"io"
